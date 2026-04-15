@@ -2,7 +2,7 @@
 -🔭 I’m currently working as a *Developer III at Hyland Software*, building scalable and user-focused frontend applications.<br>- 👯 I’m looking to collaborate on **React, Angular, design systems, and frontend architecture** projects.<br>- 🤝 I’m looking for help with **AI/ML foundations, LLM workflows, and practical AI integration in products**.<br>- 🌱 I’m currently learning **AI engineering, prompt design, and intelligent feature development for web apps**.<br>- 💬 Ask me about **Angular, React, TypeScript, frontend performance, and clean UI architecture**.<br>- ⚡ Fun fact: **I enjoy turning complex product requirements into simple, intuitive user experiences**.
 
 # 💻 Tech Stack:
-### Frontend (Primary)
+### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend Ecosystem
+### Ecosystem
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -62,6 +62,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chndn004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=chndn004&theme=dark&hide_border=false)<br/>
